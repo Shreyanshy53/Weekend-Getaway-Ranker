@@ -1,0 +1,8 @@
+Source City: Delhi
+
+Top Weekend Destinations:
+India Gate - Rating: 4.6, Popularity: 2.60
+Red Fort - Rating: 4.5, Popularity: 1.50
+Qutub Minar - Rating: 4.5, Popularity: 1.37
+Akshardham Temple - Rating: 4.6, Popularity: 0.40
+Lotus Temple - Rating: 4.5, Popularity: 0.59
