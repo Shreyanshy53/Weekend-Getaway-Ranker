@@ -2,20 +2,16 @@ import pandas as pd
 
 print("=== Weekend Getaway Ranker ===")
 
-# CSV load
 data = pd.read_csv("data/Top Indian Places to Visit.csv")
 
-# Columns rename
 data = data.rename(columns={
     "Name": "Destination",
     "Google review rating": "Rating",
     "Number of google review in lakhs": "Popularity"
 })
 
-# User input
 source_city = input("Enter source city: ")
 
-# City filter (use copy to avoid warning)
 city_data = data[data["City"].str.lower() == source_city.lower()].copy()
 
 if city_data.empty:
