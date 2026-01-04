@@ -86,14 +86,38 @@ Enter source city: Delhi
 
 ## 📄 Sample Output
 ```
-Source City: Delhi
+Enter Source City: Delhi
 
 Top Weekend Destinations:
-India Gate - Rating: 4.6, Popularity: 2.60
-Red Fort - Rating: 4.5, Popularity: 1.50
-Qutub Minar - Rating: 4.5, Popularity: 1.37
-Akshardham Temple - Rating: 4.6, Popularity: 0.40
-Lotus Temple - Rating: 4.5, Popularity: 0.59
+Destination         Rating     Popularity
+India Gate          4.6        2.60
+Red Fort            4.5        1.50
+Qutub Minar         4.5        1.37
+Akshardham Temple   4.6        0.40
+Lotus Temple        4.5        0.59
+
+Enter source city: Mumbai
+
+Top Weekend Destinations:
+
+Destination                                         Rating     Popularity
+Gateway of India                                    4.6        3.60
+Siddhivinayak Temple                                4.8        1.05
+Marine Drive                                        4.5        1.50
+Mahalaxmi Temple                                    4.7        0.33
+Chhatrapati Shivaji Maharaj Vastu Sangrahalaya      4.6        0.34
+
+
+Enter source city: Kolkata
+
+Top Weekend Destinations:
+
+Destination                 Rating     Popularity
+Howrah Bridge               4.6        1.20
+Dakshineswar Kali Temple    4.7        0.82
+Victoria Memorial           4.6        0.73
+Belur Math                  4.7        0.47
+Science City Kolkata        4.4        0.88
 ```
 
 ---
@@ -106,3 +130,4 @@ Lotus Temple - Rating: 4.5, Popularity: 0.59
 - Building a basic recommendation system
 
 ---
+
